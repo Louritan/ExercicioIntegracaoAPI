@@ -6,18 +6,18 @@ Na solução BancoSolution:
 • Adicione o projeto na solução;
 
 Crie os seguintes controladores:
-Cliente:
-▪ Métodos HTTP:
-• GetClientes
-• GetClientesPorCpf
+- Cliente:
+- Métodos HTTP:
+- GetClientes;
+- GetClientesPorCpf;
 
-Conta:
-▪ Métodos HTTP:
-• PostConta
-• GetContas
-• GetContasPorCliente
+- Conta:
+- Métodos HTTP:
+- PostConta;
+- GetContas;
+- GetContasPorCliente;
 
-Contrato:
-▪ Métodos HTTP:
-• PostContrato
-• BuscarContratosPorCliente
+- Contrato:
+- Métodos HTTP:
+- PostContrato;
+- BuscarContratosPorCliente;
