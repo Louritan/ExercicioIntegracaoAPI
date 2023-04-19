@@ -1,0 +1,45 @@
+C:\Source\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Infra.Data.deps.json
+C:\Source\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Infra.Data.dll
+C:\Source\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Infra.Data.pdb
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.csproj.AssemblyReference.cache
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.AssemblyInfoInputs.cache
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.AssemblyInfo.cs
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.dll
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\refint\BancoSolution.Infra.Data.dll
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.pdb
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\ref\BancoSolution.Infra.Data.dll
+C:\Source\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Domain.dll
+C:\Source\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Domain.pdb
+C:\Source\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.csproj.CopyComplete
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Infra.Data.deps.json
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Infra.Data.dll
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Infra.Data.pdb
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Domain.dll
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Domain.pdb
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.AssemblyInfo.cs
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.csproj.CopyComplete
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.dll
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\refint\BancoSolution.Infra.Data.dll
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.pdb
+C:\Users\Sartor\OneDrive\Área de Trabalho\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\ref\BancoSolution.Infra.Data.dll
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Infra.Data.deps.json
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Infra.Data.dll
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\ref\BancoSolution.Infra.Data.dll
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Infra.Data.pdb
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Domain.dll
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\bin\Debug\net5.0\BancoSolution.Domain.pdb
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.AssemblyInfo.cs
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.csproj.CopyComplete
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.dll
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\ref\BancoSolution.Infra.Data.dll
+C:\Users\ÁLUNO\Downloads\BancoSolution\BancoSolution\BancoSolution.Infra.Data\obj\Debug\net5.0\BancoSolution.Infra.Data.pdb
